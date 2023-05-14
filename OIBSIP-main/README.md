@@ -1,4 +1,4 @@
-Welcome to my internship project! My name is Ranjeet Rajeshirke, and this project includes a landing page, a personal portfolio, and a temperature conversion site. Here's a brief overview of each component:
+Welcome to my internship project! My name is Pushkar Dasgaonkar, and this project includes a landing page, a personal portfolio, and a temperature conversion site. Here's a brief overview of each component:
 
 Landing Page - 1.The landing page is designed to introduce visitors to the project and provide an overview of its components.
                2.The header section includes a navigation menu that allows visitors to easily navigate the website.
